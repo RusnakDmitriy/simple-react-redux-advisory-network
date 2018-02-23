@@ -1,0 +1,10 @@
+export const START = '_START';
+export const SUCCESS = '_SUCCESS';
+export const FAIL = '_FAIL';
+export const LOAD_LIST_OF_PRODUCTS = 'LOAD_LIST_OF_PRODUCTS';
+export const LOAD_PRODUCT_COMMENTS = 'LOAD_PRODUCT_COMMENTS';
+export const AUTHENTICATION = 'AUTHENTICATION';
+export const REGISTRATION = 'REGISTRATION';
+export const LOGIN = 'LOGIN';
+export const ROUTING = 'ROUTING';
+export const NEWPOST = 'NEWPOST';

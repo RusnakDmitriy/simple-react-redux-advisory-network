@@ -1,0 +1,74 @@
+a{
+    color: black;
+}
+
+#root{
+    height: 100vh;
+    overflow-y: hidden;
+}
+
+.mainScreen{
+    background: #6dbcdb;
+    height: 100%;
+}
+
+.mainMenu{
+    height: 50px;
+    margin-left: 30px;
+}
+
+.mainMenu>span{
+    margin: 0 10px 0 10px;
+}
+
+.productsField{
+    height: calc(100vh - 50px);
+    float: left;
+    overflow-y: auto;
+}
+
+.productItem{
+    margin-bottom: 20px;
+}
+
+.comment{
+    border: 1px solid black;
+    margin: 2px 0
+}
+
+.listOfProducts{
+    margin: 0;
+}
+
+.picturesField{
+    width: 30%;
+    box-sizing: border-box;
+    padding-left: 30px;
+}
+
+.commentsField{
+    width: 70%;
+}
+
+.image{
+    width: 235px;
+    height: 215px;
+}
+
+.authLable{
+    display: inline-block;
+    width: 80px;
+}
+
+.authButton{
+    margin-left: 80px;
+}
+
+.newCommentText{
+    width: 420px;
+    height: 120px;
+}
+
+.newCommentField{
+    margin-bottom: 30px;
+}
